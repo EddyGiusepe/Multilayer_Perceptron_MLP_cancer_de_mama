@@ -4,7 +4,6 @@
 
 Este é um exemplo que pode ser encontrado [aqui também](https://www.youtube.com/watch?v=YH0HuJd-nj8)
 
-\\
 
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
 
