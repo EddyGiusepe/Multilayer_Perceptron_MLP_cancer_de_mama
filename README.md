@@ -16,6 +16,4 @@ Vamos começar nossa discussão falando sobre o Perceptron!
 
 Um Perceptron tem uma ou mais entradas, um viés (bias), uma função de ativação e uma única saída. O Perceptron recebe entradas, multiplica essas entradas por algum peso e passa-as para uma função de ativação para produzir uma saída. Há muitas funções de ativação possíveis tais como a função logística, uma função trigonométrica, uma função de step, etc. Também nos certificamos de adicionar um viés para o Perceptron, isso evita problemas onde todas as entradas poderiam ser iguais a zero (significado Nenhum peso multiplicativo teria um efeito).
 
-
-
-![alt text](https://miro.medium.com/max/1250/1*cuTSPlTq0a_327iTPJyD-Q.png)
+Thanks God!
